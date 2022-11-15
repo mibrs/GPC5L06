@@ -8,10 +8,11 @@ All information consist out of 7 bit numbers, so there are 128 different values 
 
 The protocol allows to send the following information:
 
-Pitch - tone, Ex.: middle C (or C3) has the value 60
-Velocity - loud/low voice, volume
-Program - instrument
-Device identifier - if you have several MIDI devices
+- Pitch - tone, Ex.: middle C (or C3) has the value 60
+- Velocity - loud/low voice, volume
+- Program - instrument
+- Device identifier - if you have several MIDI devices
+
 By sending messages with the above information to a MIDI instrument, you can play music.
 
 ![MIDI Data](Logic2-4252846884.jpeg)
