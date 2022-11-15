@@ -42,7 +42,7 @@ Muscial compositions mostly stick to certain harmonies or change between them in
 
 You can use the below patch and add the missing 5 pitches to complete a scale. The keyboard will show you where to find the pitch played.
 
-[Basic pitch player](2022-01-13_13-43-38.png)
+![Basic pitch player](2022-01-13_13-43-38.png)
 
 
 ### Further Information
