@@ -1,9 +1,11 @@
-Short introduction
+# About MIDI
 
+### Overview
 ![MIDI Recording](midi-recording.png)
 
 MIDI is a protocol for musical instruments and related devices to communicate. [This link](https://www.youtube.com/embed/sziykFl44CU) brings you to a short introductory video what you can do with it.
 
+### The Protocol - How you use MIDI to make music
 All information consist out of 7 bit numbers, so there are 128 different values between 0 and 127. 
 
 The protocol allows to send the following information:
@@ -17,8 +19,10 @@ By sending messages with the above information to a MIDI instrument, you can pla
 
 ![MIDI Data](Logic2-4252846884.jpeg)
 
+### Programs (Instruments)
 The diagram below shows pitch and program for values between 35 and 81. The keyboard is split in half as it would have been too long otherwise to display properly. As an example. 60 as pitch would play the middle C note, 60 as program plays Hi Bongo as an instrument. Program/instrument 0 is the default instrument and sounds like a grand piano.
 
 ![Codes for MIDI Instruments](2021-12-13_16-13-08.png)
 
+### Further Information
 The Wikipedia entry [here](https://en.wikipedia.org/wiki/MIDI) has more materials about the MIDI protocol.
