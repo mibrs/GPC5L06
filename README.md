@@ -25,6 +25,7 @@ The diagram below shows pitch and program for values between 35 and 81. The keyb
 ![Codes for MIDI Instruments](2021-12-13_16-13-08.png)
 
 ### Musical Scales
+Muscial compositions mostly stick to certain harmonies or change between them in a defined way to get a melody that expresses the composer's ideas and pleases our ears. Below you find two scales with different harmonies. They are using the same pitches, but as the starting pitch is different, they sound different.
 
 #### C major scale
 | Note	| C	| C#	| D	| D#	| E	| F	| F#	| G	| G#	| A	| A#	| B	| C |
@@ -37,7 +38,11 @@ The diagram below shows pitch and program for values between 35 and 81. The keyb
 | Note	| A	| A#	| B	| C	| C#	| D	| D#	| E	| F	| F#	| G	| G#	| A |
 |---      |---|---|---|---|---|---|---|---|---|---|---|---|---|
 | MIDI pitch	| 69	| 70	| 71	| 72	| 73	| 74	| 75	| 76	| 77	| 78	| 79	| 80	| 81 |
-| C major |	x	| | x | x | |x||x|x||x|x|
+| same pitches as C major |	x	| | x | x | |x||x|x||x||x|
+
+You can use the below patch and add the missing 5 pitches to complete a scale. The keyboard will show you where to find the pitch played.
+
+[Basic pitch player](2022-01-13_13-43-38.png)
 
 
 ### Further Information
