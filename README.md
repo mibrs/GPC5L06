@@ -51,4 +51,5 @@ You will also need the ASCII table below to identify the keys. The ASCII code gi
 
 
 ### Further Information
-The Wikipedia entry [here](https://en.wikipedia.org/wiki/MIDI) has more materials about the MIDI protocol.
+- The Wikipedia entry [here](https://en.wikipedia.org/wiki/MIDI) has more materials about the MIDI protocol.
+- This video introduces MIDI with MAX 8 [Max 8 Tutorial # 13: Introduction to MIDI](https://youtu.be/6SsFsU6HKTc) 
