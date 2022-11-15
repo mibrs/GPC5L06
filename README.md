@@ -40,9 +40,14 @@ Muscial compositions mostly stick to certain harmonies or change between them in
 | MIDI pitch	| 69	| 70	| 71	| 72	| 73	| 74	| 75	| 76	| 77	| 78	| 79	| 80	| 81 |
 | same pitches as C major |	x	| | x | x | |x||x|x||x||x|
 
-You can use the below patch and add the missing 5 pitches to complete a scale. The keyboard will show you where to find the pitch played.
+You can use the below patch and add the missing 5 pitches to complete a scale. The keyboard (object ```kslider```)will show you where to find the pitch played. 
 
 ![Basic pitch player](2022-01-13_13-43-38.png)
+
+#### ASCII Coding of Characters
+You will also need the ASCII table below to identify the keys. The ASCII code gives each key (letter, number, special key) on the computer keyboard a number, the binary representation of that number can then be used by applications to do something as described by its code (i.e. show the letter on the screen, stop a program, in our case: play a note/pitch). MAX uses the ASCII code to identify the keys of the keyboard. So the letter ```a``` is represented by the number ```61``` or ```0111101```.
+
+![ASCII Table](800px-ASCII-Table-wide.svg.png)
 
 
 ### Further Information
