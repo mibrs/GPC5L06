@@ -24,5 +24,21 @@ The diagram below shows pitch and program for values between 35 and 81. The keyb
 
 ![Codes for MIDI Instruments](2021-12-13_16-13-08.png)
 
+### Musical Scales
+
+#### C major scale
+| Note	| C	| C#	| D	| D#	| E	| F	| F#	| G	| G#	| A	| A#	| B	| C |
+|---      |---|---|---|---|---|---|---|---|---|---|---|---|---|
+| MIDI pitch |	 60 |	61 |	62 |	63 |	64 | 	65 |	66 |	67 |	68 |	69 |	70| 	71 |	72 |
+| C major	| X	|	| X	 | |	X |	X	| |	X	| |	X	| |	X	| X |
+
+
+#### A minor scale
+| Note	| A	| A#	| B	| C	| C#	| D	| D#	| E	| F	| F#	| G	| G#	| A |
+|---      |---|---|---|---|---|---|---|---|---|---|---|---|---|
+| MIDI pitch	| 69	| 70	| 71	| 72	| 73	| 74	| 75	| 76	| 77	| 78	| 79	| 80	| 81 |
+| C major |	x	| | x | x | |x||x|x||x|x|
+
+
 ### Further Information
 The Wikipedia entry [here](https://en.wikipedia.org/wiki/MIDI) has more materials about the MIDI protocol.
